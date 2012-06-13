@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+eg/example.pl
+lib/XML/Tags.pm
+lib/XML/Tags/Tutorial.pod
+lib/XML/Tags/html5.pm
+readme.textile
+t/00_test.t
